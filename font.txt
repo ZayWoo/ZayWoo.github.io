@@ -1,0 +1,6 @@
+to w html 
+<link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei" rel="stylesheet">
+
+to w css w body
+
+font-family: 'ZCOOL XiaoWei', serif;
